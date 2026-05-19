@@ -24,6 +24,7 @@
 |Foxy | lead researcher | surviving file chaos|
 | Prof Lunga | Mentor | always have a repo for everything|
 | Zainab | research assistant | surviving pressure |
+| Charlotte | researcher | juggling 5 tasks at once |
 |André| Student | Taking care of 5 cats and Research|
 | Olushola | repo maintainer | making sure nothing breaks! |
 
